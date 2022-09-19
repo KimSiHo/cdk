@@ -1,0 +1,5 @@
+{
+  "CdkStarterSqs": {
+    "snsTopicArn": "arn:aws:sns:ap-northeast-2:809692026207:CdkStarterSqs-snstopic2C4AE3C1-7BZ80iPbQ0mU"
+  }
+}
